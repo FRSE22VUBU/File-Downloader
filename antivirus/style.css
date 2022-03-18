@@ -1,0 +1,24 @@
+body{
+    background-color: orange;
+}
+.download-links{
+    text-align: center;
+    align-items: center;
+}
+.icons{
+    align-items: center;
+}
+.Disclaimer{
+    align-items: center;
+}
+.What-is{
+    align-items: center;
+}
+#copyright{
+    float: left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    bottom: 0px;
+    width: 100%;
+}
